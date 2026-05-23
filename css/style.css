@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-    color: pink;
+    color: rgb(202, 34, 205);
     text-shadow: 2px 2px 4px rgb(23, 1, 18);
     text-wrap-style: balance;
     font-family: Block, serif;
@@ -25,7 +25,15 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: pink;
+    text-shadow: 2px 2px 4px rgb(23, 1, 18);
+    text-wrap-style: balance;
+    font-family: Block, serif;
+    background-image: url();
+}
+
+h3 {
+    color: pink;
     text-shadow: 2px 2px 4px rgb(23, 1, 18);
     text-wrap-style: balance;
     font-family: Block, serif;
